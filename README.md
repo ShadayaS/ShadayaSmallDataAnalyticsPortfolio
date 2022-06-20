@@ -17,7 +17,7 @@ I have utilized Microsoft Power BI to:
 Below is a screenshot with interactive visualizations created in Power BI, assessing the order fulfillment for a company.  Filters were created to easily navigate by year, region, and business segment to give insight into the company's performance.
 
 
-![image](https://user-images.githubusercontent.com/95316235/174677439-6e1a598b-5486-4f21-8381-091a837c1f6c.png)
+![image](https://user-images.githubusercontent.com/95316235/174681268-b9aa71b9-f159-4acc-b5a7-14004c5ce696.png)
 
 
 

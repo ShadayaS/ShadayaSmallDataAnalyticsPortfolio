@@ -13,11 +13,20 @@ I have utilized Microsoft Power BI to:
 4. Create interactive visualizations and dashboards
 5. Create reports and presentations
 
-Below is a video presentation created after generating insights using Power BI.  The subject centers around the Covid-19 pandemic and utilized data (as of April 2022) to determine if relaxing existing measures were appropriate. The assumption: "You have been hired as an advisor to the Prime Minister of Canada. Your task is to analyze the current COVID-19 situation, evaluate effectiveness of existing measures and recommend when Canada should call the end of pandemic."
+
+Below is a screenshot with interactive visualizations created in Power BI, assessing the order fulfillment for a company.  Filters were created to easily navigate by year, region, and business segment to give insight into the company's performance.
+
+
+![image](https://user-images.githubusercontent.com/95316235/174677439-6e1a598b-5486-4f21-8381-091a837c1f6c.png)
+
+
+
+Below is a video presentation created after generating insights using Power BI.  The subject centers around the Covid-19 pandemic and utilized data to determine if relaxing existing measures were appropriate. The assumption: "You have been hired as an advisor to the Prime Minister of Canada. Your task is to analyze the current COVID-19 situation, evaluate effectiveness of existing measures and recommend when Canada should call the end of pandemic."
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_wMS8NMmgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 
 ---
 

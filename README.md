@@ -1,5 +1,7 @@
 The push for digitization and automation of reports is becoming the standard and employers are now looking for candidates with exposure to business intelligence and statistical packages such as Python and Microsoft Power BI. As such, to improve my analytical skills via machine learning, I recently pursued a post graduate certificate in Data Analytics at Durham College.
+
 This page will demonstrate my experience with data tools such as Microsoft Power BI, Tableau, MySQL, Python and more.
+
 ---
 
 # Experience With Microsoft Power BI
@@ -32,12 +34,14 @@ The raw dataset was provided. The ask: clean and arrange dataset, review and ana
 
 
 **Vaccination Rates Globally**
+
 Only raw dataset was provided.  The ask: use provided data to create a data narrative. Create personal brand and story and offer possible recommendation to a derived problem.
 
 [Assignment 5- Shadaya Small.pdf](https://github.com/ShadayaS/ShadayaSmallDataAnalyticsPortfolio/files/8942978/Assignment.5-.Shadaya.Small.pdf)
 
 
 ### Dashboard Creation
+
 Used dataset on job postings in Canada to create a dashboard based on insights generated.  The dataset was very large, as such, the dashboard highlighted the following:
 1. The most popular job title
 2. Province with the most job listings
@@ -50,7 +54,9 @@ Used dataset on job postings in Canada to create a dashboard based on insights g
 2. Province with the most job postings was Ontario
 3. There were more hiring companies in Ontario - 1,321
 
+
 **Takeaway**
+
 Popular jobs are data centered, hence clients were encouraged to upskill in this area.
 
 ![Dashboard](https://user-images.githubusercontent.com/95316235/174660979-6b03dd46-a9b8-4e34-94a0-7af4d71cd83f.JPG)

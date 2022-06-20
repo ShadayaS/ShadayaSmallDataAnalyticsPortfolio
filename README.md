@@ -1,6 +1,6 @@
 The push for digitization and automation of reports is becoming the standard and employers are now looking for candidates with exposure to business intelligence and statistical packages such as Python and Microsoft Power BI. As such, to improve my analytical skills via machine learning, I recently pursued a post graduate certificate in Data Analytics at Durham College.
 
-This page will demonstrate my experience with data tools such as Microsoft Power BI, Tableau, MySQL, Python and more.
+This page will give a summary, including brief examples, of my experience with data tools such as Microsoft Power BI, Tableau, MySQL and Python Programming Language.
 
 ---
 
@@ -89,12 +89,20 @@ I have used both Python and R-Studio to conduct exploratory data analysis, build
 1. Tukey
 2. SMOTE
 3. SelectFromModel
-4. Learning curve generation
-5. Logistic regression
-6. Linear regression
-7. Random forest and ensemble voting models
-8. Creating dummy variables
-9. Hypothesis testing
+4. Support vector machine
+5. Regularization techniques
+6. Discriminant analysis
+7. Learning curve generation
+8. Logistic regression
+9. Linear regression
+10. Random forest and ensemble voting models
+11. Creating dummy variables
+12. Hypothesis testing
+
+Below is a screenshot of a model derived in python after conducting a linear discriminant analysis (LDA).  The data consisted of a group of patients, some of whom had malignant tumors. The LDA was performed to evaluate the effectiveness of our model at making correct predictions.  That is, correctly predicting whether or not a patient had cancer. Based on the results derived, the model makes correct prediction 98% of the time with a misclassification rate of only 2%. 
+
+
+![image](https://user-images.githubusercontent.com/95316235/174684493-b58f6e83-681b-4dfd-a6b3-62f6ca59bd79.png)
 
 
 
@@ -105,7 +113,7 @@ I have used both Python and R-Studio to conduct exploratory data analysis, build
 3. Transforming data (Adding and removing columns/rows)
 4. Adjusting data by periods and performing calculations to answer research questions
 
-See example below.  The data was taken from the suggested list of datasets sourced from Kaggle.  The specific dataset used was ‘Video Game Sales with Ratings’.  This dataset tracks the sale of various video games from 1985 to present, highlighting among other things, sales in different regions and total global sales. In this screenshot I created a new column that labels records before 2010 as 'pre-2010' and after 2010 as 'post-2010'. 
+See example below.  The data was taken from a suggested list of datasets sourced from Kaggle.  The specific dataset used was ‘Video Game Sales with Ratings’.  This dataset tracks the sale of various video games from 1985 to present, highlighting among other things, sales in different regions and total global sales. In this screenshot I created a new column that labels records before 2010 as 'pre-2010' and after 2010 as 'post-2010', this was done to facilitate further analysis of video game sales for both time periods. 
 
 ![image](https://user-images.githubusercontent.com/95316235/174675816-190134c9-22fd-4c27-9559-c653c74466a9.png)
 

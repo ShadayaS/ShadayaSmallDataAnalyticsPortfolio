@@ -26,6 +26,9 @@ Below is a video presentation created after generating insights using Power BI. 
 I have used Tableau to assess a number of datasets, create visualizations and assess performance by geographical location.  Below I will highlight a few projects which I have undertaken.
 
 ### Utlizing Data to Tell a Story
+
+**Frankfurt Stock Exchange**
+
 The raw dataset was provided. The ask: clean and arrange dataset, review and analyze data to derive a possible Challenge, Challenge Demonstration, Solution Introduction, Solution Description, Impact of Solution and Recommendation. In doing so, it is required to create your own logo and anything else needed to support the story.
 
 <p align="center">
@@ -37,7 +40,9 @@ The raw dataset was provided. The ask: clean and arrange dataset, review and ana
 
 Only raw dataset was provided.  The ask: use provided data to create a data narrative. Create personal brand and story and offer possible recommendation to a derived problem.
 
-[Assignment 5- Shadaya Small.pdf](https://github.com/ShadayaS/ShadayaSmallDataAnalyticsPortfolio/files/8942978/Assignment.5-.Shadaya.Small.pdf)
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2djFP3Gi7a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 
 ### Dashboard Creation
@@ -64,7 +69,37 @@ Popular jobs are data centered, hence clients were encouraged to upskill in this
 
 ---
 
-# Experience With Python
+
+# Experience With Python & R-Studio
+
+I have experience with archiving python code into a Github repository, aggregating data (importing data from MySQL into python, then performing manipluations).  
+
+I have used both Python and R-Studio to conduct exploratory data analysis, build models and answer research questions. This included training datasets, using machine learning techniques to eliminate outliers and address imbalance issues to generate more accurate predictive models.
+
+**Some Engeering Techniques and Model Building Approach That Were Utilized**
+1. Tukey
+2. SMOTE
+3. SelectFromModel
+4. Learning curve generation
+5. Logistic regression
+6. Linear regression
+7. Random forest and ensemble voting models
+8. Creating dummy variables
+9. Hypothesis testing
 
 
+
+# Experience With MySQL
+
+1. Database creation
+2. Importing data into MySQL from Micrsoft Excel
+3. Transforming data (Adding and removing columns/rows)
+4. Adjusting data by periods and performing calculations to answer research questions
+
+See example below.  The data was taken from the suggested list of datasets sourced from Kaggle.  The specific dataset used was ‘Video Game Sales with Ratings’.  This dataset tracks the sale of various video games from 1985 to present, highlighting among other things, sales in different regions and total global sales. In this screenshot I created a new column that labels records before 2010 as 'pre-2010' and after 2010 as 'post-2010'. 
+
+![image](https://user-images.githubusercontent.com/95316235/174675816-190134c9-22fd-4c27-9559-c653c74466a9.png)
+
+
+---
 
